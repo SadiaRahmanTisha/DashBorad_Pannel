@@ -1,0 +1,18 @@
+.task{
+	margin-top: 20px;
+}
+body{
+	color: white;
+	background: black;
+}
+*{
+	color: white;
+}
+.task-body{
+	background: red;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 15px 0px;
+	padding-left: 20px;
+	border-radius: 7px;
+}

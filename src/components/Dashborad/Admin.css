@@ -1,0 +1,31 @@
+.left-part input{
+	background: transparent;
+	padding: 9px 10px;
+	width: 450px;
+	border-radius: 3px;
+	border: 1px solid rgba(255, 255, 255, 0.849);
+}
+h3{
+	color: rgba(255, 255, 255, 0.747);
+}
+
+.right-part textarea{
+	background: transparent;
+}
+.right-part{
+	display: flex;
+	width: 490px;
+	flex-direction: column;
+}
+.right-part button{
+	margin-top: 25px;
+	background: rgba(110, 243, 110, 0.815);
+	padding: 5px;
+	border-radius: 5px;
+	border: none;
+	font-size: 20px;
+	font-weight: 600;
+}
+h5{
+	color: rgba(255, 255, 255, 0.788);
+}
